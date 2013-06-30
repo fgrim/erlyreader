@@ -1,0 +1,4 @@
+erlyreader
+==========
+
+Google reader clone
