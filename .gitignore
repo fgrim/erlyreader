@@ -1,0 +1,11 @@
+deps
+logs
+log
+ebin
+*.beam
+*.pyc
+*.pyo
+*.swp
+*.dump
+etc/erlang.cookie
+rel/erlyetl
